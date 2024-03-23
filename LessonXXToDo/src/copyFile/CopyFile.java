@@ -1,9 +1,5 @@
 package copyFile;
-// das ist correct4zxdcxczxcvz
-
-
-
-// das ist gut ferticg
+//11111111111111111111111111111111111111111111
 import java.io.*;
 import java.util.ArrayList;
 import java.util.Arrays;
